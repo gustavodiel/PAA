@@ -1,0 +1,239 @@
+Generating keys with 10 bits\n
+Creating keys with 10 bits
+Public key: (242789, 626303)
+Private key: (15629, 626303)
+P: 761
+Q: 823
+
+
+ ENCRYPTING
+Dados salvos em encrypted.dat
+
+
+ DECRYPTING
+Oie, esse sou eu tentando falar uma frase legal!
+Gustavo
+Diel
+Yay!
+
+
+ DECRYPTING WITH Brute Force
+Oie, esse sou eu tentando falar uma frase legal!
+Gustavo
+Diel
+Yay!
+
+
+ DECRYPTING WITH Brute Force + Pollard-Rho
+Oie, esse sou eu tentando falar uma frase legal!
+Gustavo
+Diel
+Yay!
+Generating keys with 15 bits\n
+Creating keys with 15 bits
+Public key: (46326699, 745313587)
+Private key: (164289355, 745313587)
+P: 24623
+Q: 30269
+
+
+ ENCRYPTING
+Dados salvos em encrypted.dat
+
+
+ DECRYPTING
+Oie, esse sou eu tentando falar uma frase legal!
+Gustavo
+Diel
+Yay!
+
+
+ DECRYPTING WITH Brute Force
+Oie, esse sou eu tentando falar uma frase legal!
+Gustavo
+Diel
+Yay!
+
+
+ DECRYPTING WITH Brute Force + Pollard-Rho
+Oie, esse sou eu tentando falar uma frase legal!
+Gustavo
+Diel
+Yay!
+Generating keys with 20 bits\n
+Creating keys with 20 bits
+Public key: (141987584149, 576276381313)
+Private key: (126150964925, 576276381313)
+P: 853949
+Q: 674837
+
+
+ ENCRYPTING
+Dados salvos em encrypted.dat
+
+
+ DECRYPTING
+Oie, esse sou eu tentando falar uma frase legal!
+Gustavo
+Diel
+Yay!
+
+
+ DECRYPTING WITH Brute Force
+Oie, esse sou eu tentando falar uma frase legal!
+Gustavo
+Diel
+Yay!
+
+
+ DECRYPTING WITH Brute Force + Pollard-Rho
+Oie, esse sou eu tentando falar uma frase legal!
+Gustavo
+Diel
+Yay!
+Generating keys with 25 bits\n
+Creating keys with 25 bits
+Public key: (129314955424741, 373772923871099)
+Private key: (36639827571781, 373772923871099)
+P: 17166319
+Q: 21773621
+
+
+ ENCRYPTING
+Dados salvos em encrypted.dat
+
+
+ DECRYPTING
+Oie, esse sou eu tentando falar uma frase legal!
+Gustavo
+Diel
+Yay!
+
+
+ DECRYPTING WITH Brute Force
+Oie, esse sou eu tentando falar uma frase legal!
+Gustavo
+Diel
+Yay!
+
+
+ DECRYPTING WITH Brute Force + Pollard-Rho
+Oie, esse sou eu tentando falar uma frase legal!
+Gustavo
+Diel
+Yay!
+Generating keys with 30 bits\n
+Creating keys with 30 bits
+Public key: (233788261528619987, 824660907303833923)
+Private key: (514371005945515163, 824660907303833923)
+P: 781715281
+Q: 1054937683
+
+
+ ENCRYPTING
+Dados salvos em encrypted.dat
+
+
+ DECRYPTING
+Oie, esse sou eu tentando falar uma frase legal!
+Gustavo
+Diel
+Yay!
+
+
+ DECRYPTING WITH Brute Force
+
+
+ DECRYPTING WITH Brute Force + Pollard-Rho
+Oie, esse sou eu tentando falar uma frase legal!
+Gustavo
+Diel
+Yay!
+Generating keys with 35 bits\n
+Creating keys with 35 bits
+Public key: (76012079084762718593, 452382093290426118917)
+Private key: (389923894098003268481, 452382093290426118917)
+P: 21392456473
+Q: 21146804429
+
+
+ ENCRYPTING
+Dados salvos em encrypted.dat
+
+
+ DECRYPTING
+Oie, esse sou eu tentando falar uma frase legal!
+Gustavo
+Diel
+Yay!
+
+
+ DECRYPTING WITH Brute Force
+
+
+ DECRYPTING WITH Brute Force + Pollard-Rho
+Oie, esse sou eu tentando falar uma frase legal!
+Gustavo
+Diel
+Yay!
+Generating keys with 40 bits\n
+Creating keys with 40 bits
+Public key: (359393044143568363611535, 760165098546167218722553)
+Private key: (554433999188284643956079, 760165098546167218722553)
+P: 738141592649
+Q: 1029836424497
+
+
+ ENCRYPTING
+Dados salvos em encrypted.dat
+
+
+ DECRYPTING
+Oie, esse sou eu tentando falar uma frase legal!
+Gustavo
+Diel
+Yay!
+
+
+ DECRYPTING WITH Brute Force
+
+
+ DECRYPTING WITH Brute Force + Pollard-Rho
+Generating keys with 45 bits\n
+Creating keys with 45 bits
+
+
+ ENCRYPTING
+Dados salvos em encrypted.dat
+
+
+ DECRYPTING
+Oie, esse sou eu tentando falar uma frase legal!
+Gustavo
+Diel
+Yay!
+
+
+ DECRYPTING WITH Brute Force
+
+
+ DECRYPTING WITH Brute Force + Pollard-Rho
+Generating keys with 50 bits\n
+Creating keys with 50 bits
+
+
+ ENCRYPTING
+Dados salvos em encrypted.dat
+
+
+ DECRYPTING
+Oie, esse sou eu tentando falar uma frase legal!
+Gustavo
+Diel
+Yay!
+
+
+ DECRYPTING WITH Brute Force
+
+
+ DECRYPTING WITH Brute Force + Pollard-Rho
