@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 
 import sys
+import math
 
 
 def euclides(a, b):
@@ -30,12 +31,12 @@ def mdc(a, b):
     return a
 
 
-def pollard_rho(n, seed = 2):
+def pollard_rho(n, seed=2):
     x = seed
     y = seed
     d = 1
 
-    f = lambda l: (l ** 2 + 1)
+    f = lambda l: (l * l + 1)
 
     while d == 1:
         x = f(x) % n

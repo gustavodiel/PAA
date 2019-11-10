@@ -1,0 +1,135 @@
+Generating keys with 8 bits\n
+
+real	0m0,015s
+user	0m0,015s
+sys	0m0,000s
+
+
+ DECRYPTING WITH Brute Force + Pollard-Rho with 8 bits
+
+real	0m0,013s
+user	0m0,013s
+sys	0m0,000s
+
+
+ ********** 
+Generating keys with 16 bits\n
+
+real	0m0,015s
+user	0m0,012s
+sys	0m0,003s
+
+
+ DECRYPTING WITH Brute Force + Pollard-Rho with 16 bits
+
+real	0m0,013s
+user	0m0,013s
+sys	0m0,000s
+
+
+ ********** 
+Generating keys with 32 bits\n
+
+real	0m0,014s
+user	0m0,014s
+sys	0m0,000s
+
+
+ DECRYPTING WITH Brute Force + Pollard-Rho with 32 bits
+
+real	0m0,013s
+user	0m0,013s
+sys	0m0,000s
+
+
+ ********** 
+Generating keys with 64 bits\n
+
+real	0m0,018s
+user	0m0,018s
+sys	0m0,000s
+
+
+ DECRYPTING WITH Brute Force + Pollard-Rho with 64 bits
+
+real	0m0,123s
+user	0m0,123s
+sys	0m0,000s
+
+
+ ********** 
+Generating keys with 70 bits\n
+
+real	0m0,027s
+user	0m0,022s
+sys	0m0,004s
+
+
+ DECRYPTING WITH Brute Force + Pollard-Rho with 70 bits
+
+real	0m0,100s
+user	0m0,090s
+sys	0m0,010s
+
+
+ ********** 
+Generating keys with 80 bits\n
+
+real	0m0,082s
+user	0m0,075s
+sys	0m0,007s
+
+
+ DECRYPTING WITH Brute Force + Pollard-Rho with 80 bits
+
+real	0m1,165s
+user	0m1,160s
+sys	0m0,000s
+
+
+ ********** 
+Generating keys with 90 bits\n
+
+real	0m0,313s
+user	0m0,312s
+sys	0m0,000s
+
+
+ DECRYPTING WITH Brute Force + Pollard-Rho with 90 bits
+
+real	0m24,332s
+user	0m24,323s
+sys	0m0,000s
+
+
+ ********** 
+Generating keys with 100 bits\n
+
+real	0m1,929s
+user	0m1,929s
+sys	0m0,000s
+
+
+ DECRYPTING WITH Brute Force + Pollard-Rho with 100 bits
+
+real	1m54,351s
+user	1m54,294s
+sys	0m0,000s
+
+
+ ********** 
+Generating keys with 110 bits\n
+
+real	0m13,601s
+user	0m13,588s
+sys	0m0,007s
+
+
+ DECRYPTING WITH Brute Force + Pollard-Rho with 110 bits
+
+real	14m52,749s
+user	14m52,300s
+sys	0m0,000s
+
+
+ ********** 

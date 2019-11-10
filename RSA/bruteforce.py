@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 
 import sys
+import math
 
 
 def euclides(a, b):
@@ -24,7 +25,7 @@ def euclides(a, b):
 
 
 def brute_force(n):
-    p = int(pow(n, 0.5))
+    p = int(math.sqrt(n))
 
     if p % 2 == 0:
         p -= 1
