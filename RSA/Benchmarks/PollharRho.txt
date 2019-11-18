@@ -1,0 +1,624 @@
+
+
+
+
+ TEST 1
+
+
+ DECRYPTING WITH Brute Force + Pollard-Rho with 10 bits
+0m0,009s
+
+ **********
+
+
+ DECRYPTING WITH Brute Force + Pollard-Rho with 20 bits
+0m0,009s
+
+ **********
+
+
+ DECRYPTING WITH Brute Force + Pollard-Rho with 30 bits
+0m0,009s
+
+ **********
+
+
+ DECRYPTING WITH Brute Force + Pollard-Rho with 40 bits
+0m0,012s
+
+ **********
+
+
+ DECRYPTING WITH Brute Force + Pollard-Rho with 50 bits
+0m0,012s
+
+ **********
+
+
+ DECRYPTING WITH Brute Force + Pollard-Rho with 60 bits
+0m0,047s
+
+ **********
+
+
+ DECRYPTING WITH Brute Force + Pollard-Rho with 70 bits
+0m0,369s
+
+ **********
+
+
+ DECRYPTING WITH Brute Force + Pollard-Rho with 80 bits
+0m2,239s
+
+ **********
+
+
+ DECRYPTING WITH Brute Force + Pollard-Rho with 90 bits
+0m6,206s
+
+ **********
+
+
+ DECRYPTING WITH Brute Force + Pollard-Rho with 100 bits
+2m48,844s
+
+ **********
+
+
+ DECRYPTING WITH Brute Force + Pollard-Rho with 110 bits
+9m47,946s
+
+ **********
+
+
+ TEST 2
+
+
+ DECRYPTING WITH Brute Force + Pollard-Rho with 10 bits
+0m0,009s
+
+ **********
+
+
+ DECRYPTING WITH Brute Force + Pollard-Rho with 20 bits
+0m0,010s
+
+ **********
+
+
+ DECRYPTING WITH Brute Force + Pollard-Rho with 30 bits
+0m0,010s
+
+ **********
+
+
+ DECRYPTING WITH Brute Force + Pollard-Rho with 40 bits
+0m0,010s
+
+ **********
+
+
+ DECRYPTING WITH Brute Force + Pollard-Rho with 50 bits
+0m0,019s
+
+ **********
+
+
+ DECRYPTING WITH Brute Force + Pollard-Rho with 60 bits
+0m0,076s
+
+ **********
+
+
+ DECRYPTING WITH Brute Force + Pollard-Rho with 70 bits
+0m0,210s
+
+ **********
+
+
+ DECRYPTING WITH Brute Force + Pollard-Rho with 80 bits
+0m3,029s
+
+ **********
+
+
+ DECRYPTING WITH Brute Force + Pollard-Rho with 90 bits
+0m8,519s
+
+ **********
+
+
+ DECRYPTING WITH Brute Force + Pollard-Rho with 100 bits
+0m37,944s
+
+ **********
+
+
+ DECRYPTING WITH Brute Force + Pollard-Rho with 110 bits
+6m5,119s
+
+ **********
+
+
+ TEST 3
+
+
+ DECRYPTING WITH Brute Force + Pollard-Rho with 10 bits
+0m0,009s
+
+ **********
+
+
+ DECRYPTING WITH Brute Force + Pollard-Rho with 20 bits
+0m0,009s
+
+ **********
+
+
+ DECRYPTING WITH Brute Force + Pollard-Rho with 30 bits
+0m0,010s
+
+ **********
+
+
+ DECRYPTING WITH Brute Force + Pollard-Rho with 40 bits
+0m0,012s
+
+ **********
+
+
+ DECRYPTING WITH Brute Force + Pollard-Rho with 50 bits
+0m0,018s
+
+ **********
+
+
+ DECRYPTING WITH Brute Force + Pollard-Rho with 60 bits
+0m0,084s
+
+ **********
+
+
+ DECRYPTING WITH Brute Force + Pollard-Rho with 70 bits
+0m0,119s
+
+ **********
+
+
+ DECRYPTING WITH Brute Force + Pollard-Rho with 80 bits
+0m1,068s
+
+ **********
+
+
+ DECRYPTING WITH Brute Force + Pollard-Rho with 90 bits
+0m21,528s
+
+ **********
+
+
+ DECRYPTING WITH Brute Force + Pollard-Rho with 100 bits
+1m46,544s
+
+ **********
+
+
+ DECRYPTING WITH Brute Force + Pollard-Rho with 110 bits
+11m35,044s
+
+ **********
+
+
+ TEST 4
+
+
+ DECRYPTING WITH Brute Force + Pollard-Rho with 10 bits
+0m0,009s
+
+ **********
+
+
+ DECRYPTING WITH Brute Force + Pollard-Rho with 20 bits
+0m0,009s
+
+ **********
+
+
+ DECRYPTING WITH Brute Force + Pollard-Rho with 30 bits
+0m0,010s
+
+ **********
+
+
+ DECRYPTING WITH Brute Force + Pollard-Rho with 40 bits
+0m0,011s
+
+ **********
+
+
+ DECRYPTING WITH Brute Force + Pollard-Rho with 50 bits
+0m0,015s
+
+ **********
+
+
+ DECRYPTING WITH Brute Force + Pollard-Rho with 60 bits
+0m0,082s
+
+ **********
+
+
+ DECRYPTING WITH Brute Force + Pollard-Rho with 70 bits
+0m0,353s
+
+ **********
+
+
+ DECRYPTING WITH Brute Force + Pollard-Rho with 80 bits
+0m2,797s
+
+ **********
+
+
+ DECRYPTING WITH Brute Force + Pollard-Rho with 90 bits
+0m4,817s
+
+ **********
+
+
+ DECRYPTING WITH Brute Force + Pollard-Rho with 100 bits
+2m8,620s
+
+ **********
+
+
+ DECRYPTING WITH Brute Force + Pollard-Rho with 110 bits
+26m1,965s
+
+ **********
+
+
+ TEST 5
+
+
+ DECRYPTING WITH Brute Force + Pollard-Rho with 10 bits
+0m0,010s
+
+ **********
+
+
+ DECRYPTING WITH Brute Force + Pollard-Rho with 20 bits
+0m0,009s
+
+ **********
+
+
+ DECRYPTING WITH Brute Force + Pollard-Rho with 30 bits
+0m0,010s
+
+ **********
+
+
+ DECRYPTING WITH Brute Force + Pollard-Rho with 40 bits
+0m0,012s
+
+ **********
+
+
+ DECRYPTING WITH Brute Force + Pollard-Rho with 50 bits
+0m0,018s
+
+ **********
+
+
+ DECRYPTING WITH Brute Force + Pollard-Rho with 60 bits
+0m0,064s
+
+ **********
+
+
+ DECRYPTING WITH Brute Force + Pollard-Rho with 70 bits
+0m0,296s
+
+ **********
+
+
+ DECRYPTING WITH Brute Force + Pollard-Rho with 80 bits
+0m1,670s
+
+ **********
+
+
+ DECRYPTING WITH Brute Force + Pollard-Rho with 90 bits
+0m7,978s
+
+ **********
+
+
+ DECRYPTING WITH Brute Force + Pollard-Rho with 100 bits
+1m33,172s
+
+ **********
+
+
+ DECRYPTING WITH Brute Force + Pollard-Rho with 110 bits
+3m21,521s
+
+ **********
+
+
+ TEST 6
+
+
+ DECRYPTING WITH Brute Force + Pollard-Rho with 10 bits
+0m0,009s
+
+ **********
+
+
+ DECRYPTING WITH Brute Force + Pollard-Rho with 20 bits
+0m0,010s
+
+ **********
+
+
+ DECRYPTING WITH Brute Force + Pollard-Rho with 30 bits
+0m0,009s
+
+ **********
+
+
+ DECRYPTING WITH Brute Force + Pollard-Rho with 40 bits
+0m0,011s
+
+ **********
+
+
+ DECRYPTING WITH Brute Force + Pollard-Rho with 50 bits
+0m0,013s
+
+ **********
+
+
+ DECRYPTING WITH Brute Force + Pollard-Rho with 60 bits
+0m0,057s
+
+ **********
+
+
+ DECRYPTING WITH Brute Force + Pollard-Rho with 70 bits
+0m0,187s
+
+ **********
+
+
+ DECRYPTING WITH Brute Force + Pollard-Rho with 80 bits
+0m1,467s
+
+ **********
+
+
+ DECRYPTING WITH Brute Force + Pollard-Rho with 90 bits
+0m23,099s
+
+ **********
+
+
+ DECRYPTING WITH Brute Force + Pollard-Rho with 100 bits
+3m35,895s
+
+ **********
+
+
+ DECRYPTING WITH Brute Force + Pollard-Rho with 110 bits
+8m19,032s
+
+ **********
+
+
+ TEST 7
+
+
+ DECRYPTING WITH Brute Force + Pollard-Rho with 10 bits
+0m0,009s
+
+ **********
+
+
+ DECRYPTING WITH Brute Force + Pollard-Rho with 20 bits
+0m0,010s
+
+ **********
+
+
+ DECRYPTING WITH Brute Force + Pollard-Rho with 30 bits
+0m0,011s
+
+ **********
+
+
+ DECRYPTING WITH Brute Force + Pollard-Rho with 40 bits
+0m0,010s
+
+ **********
+
+
+ DECRYPTING WITH Brute Force + Pollard-Rho with 50 bits
+0m0,016s
+
+ **********
+
+
+ DECRYPTING WITH Brute Force + Pollard-Rho with 60 bits
+0m0,041s
+
+ **********
+
+
+ DECRYPTING WITH Brute Force + Pollard-Rho with 70 bits
+0m0,284s
+
+ **********
+
+
+ DECRYPTING WITH Brute Force + Pollard-Rho with 80 bits
+0m1,776s
+
+ **********
+
+
+ DECRYPTING WITH Brute Force + Pollard-Rho with 90 bits
+0m33,056s
+
+ **********
+
+
+ DECRYPTING WITH Brute Force + Pollard-Rho with 100 bits
+1m31,766s
+
+ **********
+
+
+ DECRYPTING WITH Brute Force + Pollard-Rho with 110 bits
+11m50,398s
+
+ **********
+
+
+ TEST 8
+
+
+ DECRYPTING WITH Brute Force + Pollard-Rho with 10 bits
+0m0,009s
+
+ **********
+
+
+ DECRYPTING WITH Brute Force + Pollard-Rho with 20 bits
+0m0,009s
+
+ **********
+
+
+ DECRYPTING WITH Brute Force + Pollard-Rho with 30 bits
+0m0,010s
+
+ **********
+
+
+ DECRYPTING WITH Brute Force + Pollard-Rho with 40 bits
+0m0,010s
+
+ **********
+
+
+ DECRYPTING WITH Brute Force + Pollard-Rho with 50 bits
+0m0,029s
+
+ **********
+
+
+ DECRYPTING WITH Brute Force + Pollard-Rho with 60 bits
+0m0,038s
+
+ **********
+
+
+ DECRYPTING WITH Brute Force + Pollard-Rho with 70 bits
+0m0,365s
+
+ **********
+
+
+ DECRYPTING WITH Brute Force + Pollard-Rho with 80 bits
+0m3,416s
+
+ **********
+
+
+ DECRYPTING WITH Brute Force + Pollard-Rho with 90 bits
+0m7,539s
+
+ **********
+
+
+ DECRYPTING WITH Brute Force + Pollard-Rho with 100 bits
+1m5,965s
+
+ **********
+
+
+ DECRYPTING WITH Brute Force + Pollard-Rho with 110 bits
+5m39,031s
+
+ **********
+
+
+ TEST 9
+
+
+ DECRYPTING WITH Brute Force + Pollard-Rho with 10 bits
+0m0,010s
+
+ **********
+
+
+ DECRYPTING WITH Brute Force + Pollard-Rho with 20 bits
+0m0,010s
+
+ **********
+
+
+ DECRYPTING WITH Brute Force + Pollard-Rho with 30 bits
+0m0,010s
+
+ **********
+
+
+ DECRYPTING WITH Brute Force + Pollard-Rho with 40 bits
+0m0,010s
+
+ **********
+
+
+ DECRYPTING WITH Brute Force + Pollard-Rho with 50 bits
+0m0,015s
+
+ **********
+
+
+ DECRYPTING WITH Brute Force + Pollard-Rho with 60 bits
+0m0,062s
+
+ **********
+
+
+ DECRYPTING WITH Brute Force + Pollard-Rho with 70 bits
+0m0,234s
+
+ **********
+
+
+ DECRYPTING WITH Brute Force + Pollard-Rho with 80 bits
+0m1,559s
+
+ **********
+
+
+ DECRYPTING WITH Brute Force + Pollard-Rho with 90 bits
+0m27,547s
+
+ **********
+
+
+ DECRYPTING WITH Brute Force + Pollard-Rho with 100 bits
+1m55,439s
+
+ **********
+
+
+ DECRYPTING WITH Brute Force + Pollard-Rho with 110 bits
+
+4m7,388s
+
+ **********

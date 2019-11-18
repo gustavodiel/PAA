@@ -1,0 +1,217 @@
+
+
+
+TEST 1
+
+ DECRYPTING WITH Brute Force with 10 bits
+0m0,009s
+
+ DECRYPTING WITH Brute Force with 20 bits
+0m0,009s
+
+ DECRYPTING WITH Brute Force with 30 bits
+0m0,009s
+
+ DECRYPTING WITH Brute Force with 40 bits
+0m0,012s
+
+ DECRYPTING WITH Brute Force with 50 bits
+0m0,014s
+
+ DECRYPTING WITH Brute Force with 60 bits
+0m3,781s
+
+ DECRYPTING WITH Brute Force with 70 bits
+2m53,078s
+
+
+TEST 2
+
+ DECRYPTING WITH Brute Force with 10 bits
+0m0,009s
+
+ DECRYPTING WITH Brute Force with 20 bits
+0m0,009s
+
+ DECRYPTING WITH Brute Force with 30 bits
+0m0,009s
+
+ DECRYPTING WITH Brute Force with 40 bits
+0m0,015s
+
+ DECRYPTING WITH Brute Force with 50 bits
+0m0,129s
+
+ DECRYPTING WITH Brute Force with 60 bits
+0m5,771s
+
+ DECRYPTING WITH Brute Force with 70 bits
+5m32,032s
+
+
+TEST 3
+
+ DECRYPTING WITH Brute Force with 10 bits
+0m0,009s
+
+ DECRYPTING WITH Brute Force with 20 bits
+0m0,009s
+
+ DECRYPTING WITH Brute Force with 30 bits
+0m0,009s
+
+ DECRYPTING WITH Brute Force with 40 bits
+0m0,011s
+
+ DECRYPTING WITH Brute Force with 50 bits
+0m0,060s
+
+ DECRYPTING WITH Brute Force with 60 bits
+0m7,919s
+
+ DECRYPTING WITH Brute Force with 70 bits
+3m5,113s
+
+
+TEST 4
+
+ DECRYPTING WITH Brute Force with 10 bits
+0m0,009s
+
+ DECRYPTING WITH Brute Force with 20 bits
+0m0,009s
+
+ DECRYPTING WITH Brute Force with 30 bits
+0m0,009s
+
+ DECRYPTING WITH Brute Force with 40 bits
+0m0,009s
+
+ DECRYPTING WITH Brute Force with 50 bits
+0m0,139s
+
+ DECRYPTING WITH Brute Force with 60 bits
+0m7,279s
+
+ DECRYPTING WITH Brute Force with 70 bits
+0m47,077s
+
+
+TEST 5
+
+ DECRYPTING WITH Brute Force with 10 bits
+0m0,009s
+
+ DECRYPTING WITH Brute Force with 20 bits
+0m0,009s
+
+ DECRYPTING WITH Brute Force with 30 bits
+0m0,010s
+
+ DECRYPTING WITH Brute Force with 40 bits
+0m0,016s
+
+ DECRYPTING WITH Brute Force with 50 bits
+0m0,246s
+
+ DECRYPTING WITH Brute Force with 60 bits
+0m7,546s
+
+ DECRYPTING WITH Brute Force with 70 bits
+0m0,775s
+
+
+TEST 6
+
+ DECRYPTING WITH Brute Force with 10 bits
+0m0,009s
+
+ DECRYPTING WITH Brute Force with 20 bits
+0m0,009s
+
+ DECRYPTING WITH Brute Force with 30 bits
+0m0,009s
+
+ DECRYPTING WITH Brute Force with 40 bits
+0m0,013s
+
+ DECRYPTING WITH Brute Force with 50 bits
+0m0,166s
+
+ DECRYPTING WITH Brute Force with 60 bits
+0m1,688s
+
+ DECRYPTING WITH Brute Force with 70 bits
+1m28,886s
+
+
+TEST 7
+
+ DECRYPTING WITH Brute Force with 10 bits
+0m0,009s
+
+ DECRYPTING WITH Brute Force with 20 bits
+0m0,009s
+
+ DECRYPTING WITH Brute Force with 30 bits
+0m0,009s
+
+ DECRYPTING WITH Brute Force with 40 bits
+0m0,014s
+
+ DECRYPTING WITH Brute Force with 50 bits
+0m0,210s
+
+ DECRYPTING WITH Brute Force with 60 bits
+0m8,208s
+
+ DECRYPTING WITH Brute Force with 70 bits
+0m7,917s
+
+
+TEST 8
+
+ DECRYPTING WITH Brute Force with 10 bits
+0m0,009s
+
+ DECRYPTING WITH Brute Force with 20 bits
+0m0,009s
+
+ DECRYPTING WITH Brute Force with 30 bits
+0m0,009s
+
+ DECRYPTING WITH Brute Force with 40 bits
+0m0,011s
+
+ DECRYPTING WITH Brute Force with 50 bits
+0m0,264s
+
+ DECRYPTING WITH Brute Force with 60 bits
+0m5,395s
+
+ DECRYPTING WITH Brute Force with 70 bits
+5m52,937s
+
+
+TEST 9
+
+ DECRYPTING WITH Brute Force with 10 bits
+0m0,009s
+
+ DECRYPTING WITH Brute Force with 20 bits
+0m0,009s
+
+ DECRYPTING WITH Brute Force with 30 bits
+0m0,009s
+
+ DECRYPTING WITH Brute Force with 40 bits
+0m0,014s
+
+ DECRYPTING WITH Brute Force with 50 bits
+0m0,139s
+
+ DECRYPTING WITH Brute Force with 60 bits
+0m2,458s
+
+ DECRYPTING WITH Brute Force with 70 bits
+0m42,628s

@@ -86,7 +86,10 @@ def execute_brute_force():
     final = []
 
     for char in text:
-        final.append(chr(pow(int(char), d, n)))
+        int_c = int(char)
+        ascii_char = pow(int_c, d, n)
+        converted = chr(ascii_char)
+        final.append(converted)
 
     print(''.join(final))
 

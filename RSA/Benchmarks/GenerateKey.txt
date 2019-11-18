@@ -1,0 +1,385 @@
+TEST 1
+Generating keys with 100 bits\n
+0m0,017s
+
+ **********
+Generating keys with 500 bits\n
+0m0,023s
+
+ **********
+Generating keys with 1000 bits\n
+0m0,659s
+
+ **********
+Generating keys with 1500 bits\n
+0m1,963s
+
+ **********
+Generating keys with 2000 bits\n
+0m1,545s
+
+ **********
+Generating keys with 2500 bits\n
+0m4,112s
+
+ **********
+Generating keys with 3000 bits\n
+0m12,369s
+
+ **********
+Generating keys with 3500 bits\n
+1m19,399s
+
+ **********
+Generating keys with 4000 bits\n
+0m14,461s
+
+ **********
+Generating keys with 4500 bits\n
+2m0,998s
+
+ **********
+
+
+ TEST 2
+Generating keys with 100 bits\n
+0m0,012s
+
+ **********
+Generating keys with 500 bits\n
+0m0,105s
+
+ **********
+Generating keys with 1000 bits\n
+0m0,086s
+
+ **********
+Generating keys with 1500 bits\n
+0m0,802s
+
+ **********
+Generating keys with 2000 bits\n
+0m7,026s
+
+ **********
+Generating keys with 2500 bits\n
+0m4,232s
+
+ **********
+Generating keys with 3000 bits\n
+0m10,449s
+
+ **********
+Generating keys with 3500 bits\n
+0m56,462s
+
+ **********
+Generating keys with 4000 bits\n
+0m31,229s
+
+ **********
+Generating keys with 4500 bits\n
+2m9,769s
+
+ **********
+
+
+ TEST 3
+Generating keys with 100 bits\n
+0m0,012s
+
+ **********
+Generating keys with 500 bits\n
+0m0,020s
+
+ **********
+Generating keys with 1000 bits\n
+0m0,067s
+
+ **********
+Generating keys with 1500 bits\n
+0m0,304s
+
+ **********
+Generating keys with 2000 bits\n
+0m2,128s
+
+ **********
+Generating keys with 2500 bits\n
+0m6,792s
+
+ **********
+Generating keys with 3000 bits\n
+0m21,088s
+
+ **********
+Generating keys with 3500 bits\n
+0m10,497s
+
+ **********
+Generating keys with 4000 bits\n
+0m22,967s
+
+ **********
+Generating keys with 4500 bits\n
+0m21,319s
+
+ **********
+
+
+ TEST 4
+Generating keys with 100 bits\n
+0m0,012s
+
+ **********
+Generating keys with 500 bits\n
+0m0,038s
+
+ **********
+Generating keys with 1000 bits\n
+0m0,337s
+
+ **********
+Generating keys with 1500 bits\n
+0m3,749s
+
+ **********
+Generating keys with 2000 bits\n
+0m3,907s
+
+ **********
+Generating keys with 2500 bits\n
+0m12,522s
+
+ **********
+Generating keys with 3000 bits\n
+0m0,492s
+
+ **********
+Generating keys with 3500 bits\n
+0m9,919s
+
+ **********
+Generating keys with 4000 bits\n
+0m29,696s
+
+ **********
+Generating keys with 4500 bits\n
+1m24,024s
+
+ **********
+
+
+ TEST 5
+Generating keys with 100 bits\n
+0m0,012s
+
+ **********
+Generating keys with 500 bits\n
+0m0,023s
+
+ **********
+Generating keys with 1000 bits\n
+0m0,259s
+
+ **********
+Generating keys with 1500 bits\n
+0m1,467s
+
+ **********
+Generating keys with 2000 bits\n
+0m5,433s
+
+ **********
+Generating keys with 2500 bits\n
+0m4,232s
+
+ **********
+Generating keys with 3000 bits\n
+0m23,497s
+
+ **********
+Generating keys with 3500 bits\n
+0m46,767s
+
+ **********
+Generating keys with 4000 bits\n
+0m51,973s
+
+ **********
+Generating keys with 4500 bits\n
+2m16,597s
+
+ **********
+
+
+ TEST 6
+Generating keys with 100 bits\n
+0m0,013s
+
+ **********
+Generating keys with 500 bits\n
+0m0,050s
+
+ **********
+Generating keys with 1000 bits\n
+0m0,096s
+
+ **********
+Generating keys with 1500 bits\n
+0m1,483s
+
+ **********
+Generating keys with 2000 bits\n
+0m4,042s
+
+ **********
+Generating keys with 2500 bits\n
+0m9,741s
+
+ **********
+Generating keys with 3000 bits\n
+0m4,608s
+
+ **********
+Generating keys with 3500 bits\n
+1m18,442s
+
+ **********
+Generating keys with 4000 bits\n
+0m11,818s
+
+ **********
+Generating keys with 4500 bits\n
+0m40,865s
+
+ **********
+
+
+ TEST 7
+Generating keys with 100 bits\n
+0m0,014s
+
+ **********
+Generating keys with 500 bits\n
+0m0,100s
+
+ **********
+Generating keys with 1000 bits\n
+0m0,514s
+
+ **********
+Generating keys with 1500 bits\n
+0m1,468s
+
+ **********
+Generating keys with 2000 bits\n
+0m3,528s
+
+ **********
+Generating keys with 2500 bits\n
+0m5,802s
+
+ **********
+Generating keys with 3000 bits\n
+0m20,728s
+
+ **********
+Generating keys with 3500 bits\n
+0m24,944s
+
+ **********
+Generating keys with 4000 bits\n
+0m21,418s
+
+ **********
+Generating keys with 4500 bits\n
+1m2,856s
+
+ **********
+
+
+ TEST 8
+Generating keys with 100 bits\n
+0m0,012s
+
+ **********
+Generating keys with 500 bits\n
+0m0,054s
+
+ **********
+Generating keys with 1000 bits\n
+0m0,130s
+
+ **********
+Generating keys with 1500 bits\n
+0m1,531s
+
+ **********
+Generating keys with 2000 bits\n
+0m1,175s
+
+ **********
+Generating keys with 2500 bits\n
+0m2,357s
+
+ **********
+Generating keys with 3000 bits\n
+0m8,075s
+
+ **********
+Generating keys with 3500 bits\n
+0m16,991s
+
+ **********
+Generating keys with 4000 bits\n
+0m4,446s
+
+ **********
+Generating keys with 4500 bits\n
+0m32,012s
+
+ **********
+
+
+ TEST 9
+Generating keys with 100 bits\n
+0m0,012s
+
+ **********
+Generating keys with 500 bits\n
+0m0,026s
+
+ **********
+Generating keys with 1000 bits\n
+0m0,763s
+
+ **********
+Generating keys with 1500 bits\n
+0m2,509s
+
+ **********
+Generating keys with 2000 bits\n
+0m0,458s
+
+ **********
+Generating keys with 2500 bits\n
+0m6,136s
+
+ **********
+Generating keys with 3000 bits\n
+0m10,111s
+
+ **********
+Generating keys with 3500 bits\n
+0m20,648s
+
+ **********
+Generating keys with 4000 bits\n
+1m22,414s
+
+ **********
+Generating keys with 4500 bits\n
+3m40,192s
+
+ **********
